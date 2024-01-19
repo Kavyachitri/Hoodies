@@ -1,1 +1,1 @@
-# Hoodies
+This is a basic shopping project involves creating a simple user interface for browsing products and managing a shopping cart. Below is a user-friendly and visually appealing version of the shopping project using HTML and CSS. This design features a clean layout with product cards, a responsive navbar, and a visually appealing shopping cart.
